@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/day38coordinatorlayout_base/day38coordinatorlayout_base.iml" filepath="$PROJECT_DIR$/day38coordinatorlayout_base/day38coordinatorlayout_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/day38inputlayout_base/day38inputlayout_base.iml" filepath="$PROJECT_DIR$/day38inputlayout_base/day38inputlayout_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/day38snackbar_base/day38snackbar_base.iml" filepath="$PROJECT_DIR$/day38snackbar_base/day38snackbar_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day39recycleview_base/day39recycleview_base.iml" filepath="$PROJECT_DIR$/day39recycleview_base/day39recycleview_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day39recycleviewtwo/day39recycleviewtwo.iml" filepath="$PROJECT_DIR$/day39recycleviewtwo/day39recycleviewtwo.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttp_tool/okhttp_tool.iml" filepath="$PROJECT_DIR$/okhttp_tool/okhttp_tool.iml" />
     </modules>
   </component>

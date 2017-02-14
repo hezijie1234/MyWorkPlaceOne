@@ -18,6 +18,8 @@
             <option value="$PROJECT_DIR$/day38coordinatorlayout_base" />
             <option value="$PROJECT_DIR$/day38inputlayout_base" />
             <option value="$PROJECT_DIR$/day38snackbar_base" />
+            <option value="$PROJECT_DIR$/day39recycleview_base" />
+            <option value="$PROJECT_DIR$/day39recycleviewtwo" />
             <option value="$PROJECT_DIR$/okhttp_tool" />
           </set>
         </option>
