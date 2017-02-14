@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_main"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="android.hezijie.com.day38coordinatorbehaver.MainActivity">
+
+    <Button
+        android:id="@+id/first_btn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:onClick="onCLickOne"
+        />
+
+    <Button
+        android:id="@+id/second_btn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:onClick="onCLickSecond"
+        android:layout_gravity="left|center_vertical"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="centerCrop"
+        android:layout_gravity="bottom"
+        app:layout_behavior="android.hezijie.com.day38coordinatorbehaver.CoordinatorBehaver"
+        />
+</android.support.design.widget.CoordinatorLayout>

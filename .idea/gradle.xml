@@ -3,32 +3,25 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/PullRefresh_library" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app_liwushuo" />
-            <option value="$PROJECT_DIR$/day36retrofit_gson" />
-            <option value="$PROJECT_DIR$/day36retrofitbase" />
-            <option value="$PROJECT_DIR$/day36surfaceviewbase" />
+            <option value="$PROJECT_DIR$/day38appbarlayout_base" />
+            <option value="$PROJECT_DIR$/day38collapsingtoolbar" />
+            <option value="$PROJECT_DIR$/day38coordinatorbehaver" />
+            <option value="$PROJECT_DIR$/day38coordinatorlayout_base" />
+            <option value="$PROJECT_DIR$/day38inputlayout_base" />
+            <option value="$PROJECT_DIR$/day38snackbar_base" />
             <option value="$PROJECT_DIR$/okhttp_tool" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/PullRefresh_library" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/app_liwushuo" />
-            <option value="$PROJECT_DIR$/day36retrofit_gson" />
-            <option value="$PROJECT_DIR$/day36retrofitbase" />
-            <option value="$PROJECT_DIR$/day36surfaceviewbase" />
-            <option value="$PROJECT_DIR$/okhttp_tool" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
