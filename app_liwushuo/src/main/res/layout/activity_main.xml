@@ -22,7 +22,6 @@
             android:id="@+id/main_guide_button"
             android:layout_width="0dp"
             android:button="@null"
-            android:checked="true"
             android:layout_weight="1"
             android:text="指南"
             android:textColor="#c0c0c0"

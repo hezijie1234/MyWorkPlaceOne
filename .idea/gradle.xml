@@ -17,10 +17,14 @@
             <option value="$PROJECT_DIR$/day38coordinatorbehaver" />
             <option value="$PROJECT_DIR$/day38coordinatorlayout_base" />
             <option value="$PROJECT_DIR$/day38inputlayout_base" />
+            <option value="$PROJECT_DIR$/day38qq_listviewdispatch" />
             <option value="$PROJECT_DIR$/day38snackbar_base" />
+            <option value="$PROJECT_DIR$/day39drawerlayoutclash" />
             <option value="$PROJECT_DIR$/day39event_clash_base" />
             <option value="$PROJECT_DIR$/day39recycleview_base" />
             <option value="$PROJECT_DIR$/day39recycleviewtwo" />
+            <option value="$PROJECT_DIR$/day40greendao_base" />
+            <option value="$PROJECT_DIR$/day40greendao_tool" />
             <option value="$PROJECT_DIR$/okhttp_tool" />
           </set>
         </option>

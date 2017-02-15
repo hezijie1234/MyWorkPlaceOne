@@ -11,10 +11,14 @@
       <module fileurl="file://$PROJECT_DIR$/day38coordinatorbehaver/day38coordinatorbehaver.iml" filepath="$PROJECT_DIR$/day38coordinatorbehaver/day38coordinatorbehaver.iml" />
       <module fileurl="file://$PROJECT_DIR$/day38coordinatorlayout_base/day38coordinatorlayout_base.iml" filepath="$PROJECT_DIR$/day38coordinatorlayout_base/day38coordinatorlayout_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/day38inputlayout_base/day38inputlayout_base.iml" filepath="$PROJECT_DIR$/day38inputlayout_base/day38inputlayout_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day38qq_listviewdispatch/day38qq_listviewdispatch.iml" filepath="$PROJECT_DIR$/day38qq_listviewdispatch/day38qq_listviewdispatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/day38snackbar_base/day38snackbar_base.iml" filepath="$PROJECT_DIR$/day38snackbar_base/day38snackbar_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day39drawerlayoutclash/day39drawerlayoutclash.iml" filepath="$PROJECT_DIR$/day39drawerlayoutclash/day39drawerlayoutclash.iml" />
       <module fileurl="file://$PROJECT_DIR$/day39event_clash_base/day39event_clash_base.iml" filepath="$PROJECT_DIR$/day39event_clash_base/day39event_clash_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/day39recycleview_base/day39recycleview_base.iml" filepath="$PROJECT_DIR$/day39recycleview_base/day39recycleview_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/day39recycleviewtwo/day39recycleviewtwo.iml" filepath="$PROJECT_DIR$/day39recycleviewtwo/day39recycleviewtwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day40greendao_base/day40greendao_base.iml" filepath="$PROJECT_DIR$/day40greendao_base/day40greendao_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day40greendao_tool/day40greendao_tool.iml" filepath="$PROJECT_DIR$/day40greendao_tool/day40greendao_tool.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttp_tool/okhttp_tool.iml" filepath="$PROJECT_DIR$/okhttp_tool/okhttp_tool.iml" />
     </modules>
   </component>

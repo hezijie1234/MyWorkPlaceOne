@@ -3,6 +3,7 @@ package androidstudy.hezijie.com.appliwushuo;
 import android.graphics.Color;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.RadioButton;
@@ -44,7 +45,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
         initFragments();
+        initClick();
+
         listener();
+    }
+
+    private void initClick() {
+        fragmentManager.beginTransaction().add(R.id.main_frame_layout,selectionClearlyFragment).commit();
+        guideRadioBtn.setTextColor(Color.RED);
+        guideRadioBtn.setChecked(true);
     }
 
     private void initFragments() {
@@ -60,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
         fragmentList.add(hotFragment);
         fragmentList.add(ownFragment);
         mCurrentFragment = selectionClearlyFragment;
+
     }
 
     private void listener() {
@@ -93,10 +103,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setColor(){
-        hotRadioBtn.setTextColor(getResources().getColor(R.color.colorOfRadioBtn));
-        categoryRadioBtn.setTextColor(getResources().getColor(R.color.colorOfRadioBtn));
-        myRadioBtn.setTextColor(getResources().getColor(R.color.colorOfRadioBtn));
-        guideRadioBtn.setTextColor(getResources().getColor(R.color.colorOfRadioBtn));
+        hotRadioBtn.setTextColor(ContextCompat.getColor(this,R.color.colorOfRadioBtn));
+        categoryRadioBtn.setTextColor(ContextCompat.getColor(this,R.color.colorOfRadioBtn));
+        myRadioBtn.setTextColor(ContextCompat.getColor(this,R.color.colorOfRadioBtn));
+        guideRadioBtn.setTextColor(ContextCompat.getColor(this,R.color.colorOfRadioBtn));
     }
 
     private void setFragment(Fragment fragment){

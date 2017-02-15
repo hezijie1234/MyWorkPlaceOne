@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_main"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    tools:context="android.hezijie.com.day38qq_listviewdispatch.MainActivity">
+    <android.hezijie.com.day38qq_listviewdispatch.SpecificListView
+        android:id="@+id/main_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.hezijie.com.day38qq_listviewdispatch.SpecificListView>
+</RelativeLayout>
