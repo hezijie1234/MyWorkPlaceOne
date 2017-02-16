@@ -17,8 +17,13 @@
       <module fileurl="file://$PROJECT_DIR$/day39event_clash_base/day39event_clash_base.iml" filepath="$PROJECT_DIR$/day39event_clash_base/day39event_clash_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/day39recycleview_base/day39recycleview_base.iml" filepath="$PROJECT_DIR$/day39recycleview_base/day39recycleview_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/day39recycleviewtwo/day39recycleviewtwo.iml" filepath="$PROJECT_DIR$/day39recycleviewtwo/day39recycleviewtwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day40alipay_demo/day40alipay_demo.iml" filepath="$PROJECT_DIR$/day40alipay_demo/day40alipay_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/day40greendao_base/day40greendao_base.iml" filepath="$PROJECT_DIR$/day40greendao_base/day40greendao_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/day40greendao_tool/day40greendao_tool.iml" filepath="$PROJECT_DIR$/day40greendao_tool/day40greendao_tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day40shoppingcart/day40shoppingcart.iml" filepath="$PROJECT_DIR$/day40shoppingcart/day40shoppingcart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day41instantmessage/day41instantmessage.iml" filepath="$PROJECT_DIR$/day41instantmessage/day41instantmessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day41jpush_notification/day41jpush_notification.iml" filepath="$PROJECT_DIR$/day41jpush_notification/day41jpush_notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day41share/day41share.iml" filepath="$PROJECT_DIR$/day41share/day41share.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttp_tool/okhttp_tool.iml" filepath="$PROJECT_DIR$/okhttp_tool/okhttp_tool.iml" />
     </modules>
   </component>

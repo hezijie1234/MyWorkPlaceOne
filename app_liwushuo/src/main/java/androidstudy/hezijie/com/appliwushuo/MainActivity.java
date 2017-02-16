@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import androidstudy.hezijie.com.appliwushuo.view.category.CategoryFragment;
-import androidstudy.hezijie.com.appliwushuo.view.home.SelectionClearlyFragment;
+import androidstudy.hezijie.com.appliwushuo.view.home.HomeFragment;
 import androidstudy.hezijie.com.appliwushuo.view.hot.HotFragment;
 import androidstudy.hezijie.com.appliwushuo.view.my.OwnFragment;
 import butterknife.BindView;
@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.main_my_button)
     RadioButton myRadioBtn;
     private CategoryFragment categoryFragment;
-    private SelectionClearlyFragment selectionClearlyFragment;
+    private HomeFragment selectionClearlyFragment;
     private HotFragment hotFragment;
     private OwnFragment ownFragment;
     private Fragment mCurrentFragment;
@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         guideRadioBtn.setTextColor(Color.RED);
         fragmentManager = getSupportFragmentManager();
         categoryFragment = CategoryFragment.newInstance();
-        selectionClearlyFragment = SelectionClearlyFragment.newInstance();
+        selectionClearlyFragment = HomeFragment.newInstance();
         ownFragment = OwnFragment.newInstance();
         hotFragment = HotFragment.newInstance();
         fragmentList.add(categoryFragment);

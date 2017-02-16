@@ -23,8 +23,13 @@
             <option value="$PROJECT_DIR$/day39event_clash_base" />
             <option value="$PROJECT_DIR$/day39recycleview_base" />
             <option value="$PROJECT_DIR$/day39recycleviewtwo" />
+            <option value="$PROJECT_DIR$/day40alipay_demo" />
             <option value="$PROJECT_DIR$/day40greendao_base" />
             <option value="$PROJECT_DIR$/day40greendao_tool" />
+            <option value="$PROJECT_DIR$/day40shoppingcart" />
+            <option value="$PROJECT_DIR$/day41instantmessage" />
+            <option value="$PROJECT_DIR$/day41jpush_notification" />
+            <option value="$PROJECT_DIR$/day41share" />
             <option value="$PROJECT_DIR$/okhttp_tool" />
           </set>
         </option>

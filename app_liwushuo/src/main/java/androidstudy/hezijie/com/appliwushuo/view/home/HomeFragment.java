@@ -8,7 +8,6 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
-import android.text.Selection;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -17,7 +16,6 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 import java.util.List;
 
-import androidstudy.hezijie.com.appliwushuo.MainActivity;
 import androidstudy.hezijie.com.appliwushuo.R;
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -25,7 +23,7 @@ import butterknife.ButterKnife;
 /**
  * Created by hezijie on 2017/2/8.
  */
-public class SelectionClearlyFragment extends Fragment {
+public class HomeFragment extends Fragment {
     private static final String TAG = "111";
     private List<Fragment> mFragmentList;
     private String[] pageTitles = {"精选","送女票","海涛","创意生活","送基友","科技范"};
@@ -51,13 +49,13 @@ public class SelectionClearlyFragment extends Fragment {
 
     }
 
-    public static SelectionClearlyFragment newInstance(){
-        return new SelectionClearlyFragment();
+    public static HomeFragment newInstance(){
+        return new HomeFragment();
     }
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_select_clearly, container, false);
+        View view = inflater.inflate(R.layout.fragment_home, container, false);
         ButterKnife.bind(this,view);
         initTabs();
         Log.e(TAG, "onCreateView: " );
